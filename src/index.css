@@ -1,0 +1,53 @@
+@import "tailwindcss";
+
+.one{
+  @apply w-[1000px] h-[800px] border bg-amber-400 ms-[400px]
+}
+
+.two{
+  @apply w-full h-[133px]
+}
+
+.three{
+  @apply h-full w-[125px]
+}
+
+.four{
+  @apply w-full h-[44px]
+}
+.five{
+  @apply h-full w-[62.5px]
+}
+.six{
+  @apply w-full h-[14.5px]
+}
+.seven{
+  @apply w-full h-[33px]
+}
+.eight{
+  @apply h-full w-[41.5px]
+}
+.nine{
+  @apply w-full h-[50%]
+}
+.ten{
+  @apply h-full w-[25%]
+}
+.eleven{
+  @apply w-full h-[50%]
+}
+.twelve{
+  @apply h-[50%]
+}
+.thirteen{
+  @apply h-[50%]
+}
+.fourteen{
+  @apply w-[75px] h-full
+}
+.fifteen{
+  @apply w-[60%] 
+}
+.sixteen{
+  @apply w-[40%]
+}
