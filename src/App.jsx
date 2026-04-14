@@ -96,16 +96,65 @@ function App() {
                   <div className="w-[10%] bg-teal-700">58</div>
                   <div className="w-[10%] bg-teal-800">59</div>
                   <div className="w-[10%] bg-teal-900">60</div>
-                  <div className="w-[10%] bg-green-300">60</div>
-                  <div className="w-[10%] bg-green-400">60</div>
+                  <div className="w-[10%] bg-green-300">61</div>
+                  <div className="w-[10%] bg-green-400">62</div>
                  </div>
               </div>
            </div>
-              <div className="h-[65.5px]  bg-indigo-400">48</div>
+              <div className="h-[69px]  bg-indigo-400">48</div>
         </div>
       </div>
-      <div className="two bg-yellow-300">3</div>
-      <div className="two bg-yellow-400">4</div>
+      <div className="two bg-yellow-300 flex">
+         <div className="w-[350px]  bg-rose-100">63</div>
+         <div className="w-[300px] bg-rose-200">
+             <div className="h-[30%] bg-amber-700">66</div>
+             <div className="h-[70%] bg-amber-500 flex">
+                 <div className="w-[50%] bg-rose-200">
+                    <div className="h-[50%] bg-rose-2000">69</div>
+                    <div className="h-[25%] bg-rose-300">70</div>
+                    <div className="h-[25%] bg-rose-400">71</div>
+                 </div>
+                 <div className="w-[50%] bg-rose-300">
+                    <div className="h-[25%] bg-rose-500">72</div>
+                    <div className="h-[25%] bg-rose-600">73</div>
+                    <div className="h-[50%] bg-rose-700">74</div>
+                 </div>
+             </div>
+         </div>
+         <div className="w-[350px] bg-rose-300">65</div>
+      </div>
+      <div className="two bg-yellow-400 flex">
+        <div className="w-[200px] bg-gray-50">75</div>
+        <div className="w-[200px] bg-gray-100">
+          <div className="h-[44px] bg-blue-50">80</div>
+          <div className="h-[44px] bg-blue-100 flex">
+            <div className="w-1/2 bg-green-50">83</div>
+            <div className="w-1/2 bg-green-100">84</div>
+            <div className="w-1/2 bg-green-200">85</div>
+            <div className="w-1/2 bg-green-300">86</div>
+            <div className="w-1/2 bg-green-400">87</div>
+            <div className="w-1/2 bg-green-500">88</div>
+            <div className="w-1/2 bg-green-600">89</div>
+          </div>
+          <div className="h-[46px] bg-blue-200">82</div>
+        </div>
+        <div className="w-[200px] bg-gray-200">77</div>
+        <div className="w-[200px] bg-gray-300">
+             <div className="h-[44px]">90</div>
+             <div className="h-[44px] flex">
+                <div className="w-1/2 bg-green-50">93</div>
+            <div className="w-1/2 bg-green-100">94</div>
+            <div className="w-1/2 bg-green-200">95</div>
+            <div className="w-1/2 bg-green-300">
+               <div className="bg-red-100 h-1/2">98</div>
+               <div className="bg-red-200 h-1/2">99</div>
+            </div>
+            <div className="w-1/2 bg-green-400">97</div>
+             </div>
+             <div className="h-[46px] bg-gray-500">92</div>
+        </div>
+        <div className="w-[200px] bg-gray-400">79</div>
+      </div>
       <div className="two bg-yellow-500">5</div>
       <div className="two bg-yellow-600">6 </div>
     </div>
